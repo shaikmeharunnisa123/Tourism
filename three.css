@@ -1,0 +1,93 @@
+.bg-whole-Container
+{
+    background-image:url('/home/rguktongole/Downloads/hallstatt-3609863_1280.jpg');
+height:100vh;
+width:100vw;
+background-size:cover;
+
+}
+.card-container
+{
+    background-color:white;
+    text-align:center;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    margin:10px;
+
+
+}
+.bg-back
+{
+    background-image:url('https://i.pinimg.com/originals/73/70/00/737000df4b8e04719d38b1b4537ebad2.jpg');
+    background-size:cover;
+    height:120vh;
+    width:100wh;
+    
+}
+.bg-head
+{
+    color:white;
+    padding:16px;
+}
+.bg-card1
+{
+    background-color:white;
+    margin:16px;
+    padding:18px;
+    border-radius:8px;
+}
+.head2
+{
+    color:blueviolet;
+    font-family:"Roboto";
+    font-style:bold;
+
+}
+.image
+{
+    height:70px;
+    width:100px;
+}
+.button1
+{
+    background-color:black;
+    color:whitesmoke;
+    padding:12px;
+    margin:15px;
+    border-radius:5px;
+    border-color:red;
+
+}
+.detailed-card
+{
+    background-image:url(https://previews.123rf.com/images/tomo00/tomo001803/tomo00180300130/97711381-green-floral-border-frame-on-white-background-vector-illustration.jpg);
+    background-size:cover;
+    height:160vh;
+    width:100vw;
+    color:white;
+    padding:30px;
+
+}
+.tcard{
+    background-color:white;
+    padding:10px;
+    margin:20px;
+
+}
+.card1
+{
+    color:black;
+    background-color:white;
+    padding:10px;
+    
+}
+.b
+{
+    background-color:black;
+    color:white;
+    border-radius:6px;
+    margin-left:20px;
+    height:35px;
+    width:55px;
+    margin-top:20px;
+}
